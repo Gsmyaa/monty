@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * f_pstr - prints the string 
+ * f_pstr - prints the string
  * @head: stack head
  * @counter: line number
  * Return: none
